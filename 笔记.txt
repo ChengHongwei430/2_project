@@ -1,0 +1,5 @@
+git add  工作区进入暂存区
+git status 查看文件状态
+git add . 所有文件进入暂存区
+git commit -m "name1" 暂存区进入缓存区,版本命名
+git log 看日志
